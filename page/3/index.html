@@ -1,786 +1,751 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="zh-CN">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  
-  
-  
-  <meta name="description" content="赖赖唧唧">
-  
-  <title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="keywords" content="Hexo Theme Keep">
+    <meta name="description" content="赖赖唧唧">
+    <meta name="author" content="Maniac Ravings">
     
-    Pocket Movies Club
-  </title>
-  
-    <link rel="shortcut icon" href="/favicon.ico">
+    <title>
+        
+        Pocket Movies Club
+    </title>
     
-  
 <link rel="stylesheet" href="/css/style.css">
 
-  
-  
-<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
-
-  
-  
-<script src="/js/pace.min.js"></script>
-
+    <link rel="shortcut icon" href="/images/logo.svg">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hexo-theme-keep@3.4.3/source/css/font-awesome.min.css">
+    <script id="hexo-configurations">
+    let KEEP = window.KEEP || {};
+    KEEP.hexo_config = {"hostname":"example.com","root":"/","language":"zh-CN","path":"search.json"};
+    KEEP.theme_config = {"toc":{"enable":false,"number":true,"expand_all":true,"init_open":true},"style":{"primary_color":"#0066CC","avatar":"/images/avatar.svg","favicon":"/images/logo.svg","article_img_align":"center","left_side_width":"260px","content_max_width":"920px","hover":{"shadow":true,"scale":true},"first_screen":{"enable":true,"background_img":"/images/bg.svg","description":"七堇年说：人生如路。须在荒凉中走出繁华的风景来。"},"scroll":{"progress_bar":{"enable":true},"percent":{"enable":true}}},"local_search":{"enable":true,"preload":true},"code_copy":{"enable":false,"style":"default"},"pjax":{"enable":true},"lazyload":{"enable":true},"version":"3.4.3"};
+    KEEP.language_ago = {"second":"%s 秒前","minute":"%s 分钟前","hour":"%s 小时前","day":"%s 天前","week":"%s 周前","month":"%s 月前","year":"%s 年前"};
+  </script>
 <meta name="generator" content="Hexo 5.4.0"><link rel="alternate" href="/atom.xml" title="Pocket Movies Club" type="application/atom+xml">
 </head>
 
+
 <body>
-  <main class="content">
-    <section class="jumbotron">
-  <div class="video">
+<div class="progress-bar-container">
     
-    <div class="video-frame">
-      <img src="/images/ocean/overlay-hero.png" alt="Decorative image frame">
+        <span class="scroll-progress-bar"></span>
+    
+
+    
+        <span class="pjax-progress-bar"></span>
+        <span class="pjax-progress-icon">
+            <i class="fas fa-circle-notch fa-spin"></i>
+        </span>
+    
+</div>
+
+
+<main class="page-container">
+
+    
+
+    <div class="page-main-content">
+
+        <div class="page-main-content-top">
+            <header class="header-wrapper">
+
+    <div class="header-content">
+        <div class="left">
+            
+            <a class="logo-title" href="/">
+                Pocket Movies Club
+            </a>
+        </div>
+
+        <div class="right">
+            <div class="pc">
+                <ul class="menu-list">
+                    
+                        <li class="menu-item">
+                            <a class="active"
+                               href="/"
+                            >
+                                首页
+                            </a>
+                        </li>
+                    
+                        <li class="menu-item">
+                            <a class=""
+                               href="/archives"
+                            >
+                                归档
+                            </a>
+                        </li>
+                    
+                        <li class="menu-item">
+                            <a class=""
+                               href="/categories"
+                            >
+                                分类
+                            </a>
+                        </li>
+                    
+                        <li class="menu-item">
+                            <a class=""
+                               href="/tags"
+                            >
+                                标签
+                            </a>
+                        </li>
+                    
+                        <li class="menu-item">
+                            <a class=""
+                               href="/links"
+                            >
+                                友链
+                            </a>
+                        </li>
+                    
+                        <li class="menu-item">
+                            <a class=""
+                               href="/about"
+                            >
+                                关于
+                            </a>
+                        </li>
+                    
+                        <li class="menu-item">
+                            <a class=""
+                               href="/changelog"
+                            >
+                                更新日志
+                            </a>
+                        </li>
+                    
+                    
+                        <li class="menu-item search search-popup-trigger">
+                            <i class="fas fa-search"></i>
+                        </li>
+                    
+                </ul>
+            </div>
+            <div class="mobile">
+                
+                    <div class="icon-item search search-popup-trigger"><i class="fas fa-search"></i></div>
+                
+                <div class="icon-item menu-bar">
+                    <div class="menu-bar-middle"></div>
+                </div>
+            </div>
+        </div>
     </div>
-    
-    <div class="video-media">
-      <video playsinline="" autoplay="" loop="" muted="" data-autoplay="" poster="/images/ocean/ocean.png"
-        x5-video-player-type="h5">
-        <source src="/images/ocean/ocean.mp4" type="video/mp4">
-        <source src="/images/ocean/ocean.ogv" type="video/ogg">
-        <source src="/images/ocean/ocean.webm" type="video/webm">
-        <p>Your user agent does not support the HTML5 Video element.</p>
-      </video>
-      <div class="video-overlay"></div>
+
+    <div class="header-drawer">
+        <ul class="drawer-menu-list">
+            
+                <li class="drawer-menu-item flex-center">
+                    <a class="active"
+                       href="/">首页</a>
+                </li>
+            
+                <li class="drawer-menu-item flex-center">
+                    <a class=""
+                       href="/archives">归档</a>
+                </li>
+            
+                <li class="drawer-menu-item flex-center">
+                    <a class=""
+                       href="/categories">分类</a>
+                </li>
+            
+                <li class="drawer-menu-item flex-center">
+                    <a class=""
+                       href="/tags">标签</a>
+                </li>
+            
+                <li class="drawer-menu-item flex-center">
+                    <a class=""
+                       href="/links">友链</a>
+                </li>
+            
+                <li class="drawer-menu-item flex-center">
+                    <a class=""
+                       href="/about">关于</a>
+                </li>
+            
+                <li class="drawer-menu-item flex-center">
+                    <a class=""
+                       href="/changelog">更新日志</a>
+                </li>
+            
+        </ul>
     </div>
-    <div class="video-inner text-center text-white">
-      <h1><a href="/">Pocket Movies Club</a></h1>
-      <p>Maniac Ravings</p>
-      <div><img src="/images/hexo-inverted.svg" class="brand" alt="Pocket Movies Club"></div>
-    </div>
-    <div class="video-learn-more">
-      <a class="anchor" href="#landingpage"><i class="fe fe-mouse"></i></a>
-    </div>
-  </div>
-</section>
-<div id="landingpage">
-  <section class="outer">
-  <article class="articles">
-    
-    <h1 class="page-type-title"></h1>
-    
-    
-    <article id="post-X特遣队：全员集结-The-Suicide-Squad-2021" class="article article-type-post" itemscope
-  itemprop="blogPost" data-scroll-reveal>
 
-  <div class="article-inner">
-    
-    <header class="article-header">
-      
+    <div class="window-mask"></div>
 
-<h2 itemprop="name">
-  <a class="article-title" href="/2021/12/01/X%E7%89%B9%E9%81%A3%E9%98%9F%EF%BC%9A%E5%85%A8%E5%91%98%E9%9B%86%E7%BB%93-The-Suicide-Squad-2021/">X特遣队：全员集结 The Suicide Squad (2021)</a>
-</h2>
+</header>
 
 
+        </div>
 
-    </header>
-    
+        <div class="page-main-content-middle">
 
-    
-    <div class="article-meta">
-      <a href="/2021/12/01/X%E7%89%B9%E9%81%A3%E9%98%9F%EF%BC%9A%E5%85%A8%E5%91%98%E9%9B%86%E7%BB%93-The-Suicide-Squad-2021/" class="article-date">
-  <time datetime="2021-12-01T04:18:25.000Z" itemprop="datePublished">2021-12-01</time>
-</a>
-      
-    </div>
-    
+            <div class="main-content">
 
-    
-
-    <div class="article-entry" itemprop="articleBody">
-      
-      
+                
+                    <div class="home-content-container fade-in-down-animation">
+    <ul class="home-article-list">
         
-      
-      
-        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><blockquote>
+            <li class="home-article-item">
+
+                
+
+                <h3 class="home-article-title">
+                    <a href="/2021/12/01/X%E7%89%B9%E9%81%A3%E9%98%9F%EF%BC%9A%E5%85%A8%E5%91%98%E9%9B%86%E7%BB%93-The-Suicide-Squad-2021/">
+                        X特遣队：全员集结 The Suicide Squad (2021)
+                    </a>
+                </h3>
+
+                <div class="home-article-content markdown-body">
+                    
+                        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><blockquote>
 <p>关押在美梦监狱的X特遣队成员获得一项可以减轻刑罚的新任务，前往南美洲的科托马耳他岛国，摧毁纳粹时期遗留的约顿海姆监狱和实验室，它当前用于关押该国的政治犯并施行人体实验。执行任务期间，X特遣队遭遇巨型外星生物海星斯塔罗，并与它发生冲突。</p>
 </blockquote>
-<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp0.qhimg.com%2Ft010586a2ac3b8efe8b.jpg&refer=http%3A%2F%2Fp0.qhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1640924390&t=64aa9a68ee76f4529e41c507f2a05e2b" alt="title" style="zoom: 120%;" />
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp0.qhimg.com%2Ft010586a2ac3b8efe8b.jpg&refer=http%3A%2F%2Fp0.qhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1640924390&t=64aa9a68ee76f4529e41c507f2a05e2b"
+                      alt="title" style="zoom: 120%;" 
+                >
+                    
+                </div>
+
+                <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fas fa-history"></i>&nbsp;<span class="home-article-date" data-date="Wed Dec 01 2021 12:18:25 GMT+0800">2021-12-01</span></span>
         
-          <p>
-            <a class="article-more-link" href="/2021/12/01/X%E7%89%B9%E9%81%A3%E9%98%9F%EF%BC%9A%E5%85%A8%E5%91%98%E9%9B%86%E7%BB%93-The-Suicide-Squad-2021/">
-              阅读全文...
-            </a>
-          </p>
         
-      
     </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2021/12/01/X%E7%89%B9%E9%81%A3%E9%98%9F%EF%BC%9A%E5%85%A8%E5%91%98%E9%9B%86%E7%BB%93-The-Suicide-Squad-2021/" data-id="ckwoqcdo00003m01w8283dcfc" class="article-share-link">
-        分享
-      </a>
-      
-    </footer>
 
-  </div>
+    <a href="/2021/12/01/X%E7%89%B9%E9%81%A3%E9%98%9F%EF%BC%9A%E5%85%A8%E5%91%98%E9%9B%86%E7%BB%93-The-Suicide-Squad-2021/">阅读全文&nbsp;<i class="fas fa-angle-right"></i></a>
+</div>
 
-  
-
-  
-
-</article>
-    
-    <article id="post-倒数时刻-Tick-Tick…Boom-2021" class="article article-type-post" itemscope
-  itemprop="blogPost" data-scroll-reveal>
-
-  <div class="article-inner">
-    
-    <header class="article-header">
-      
-
-<h2 itemprop="name">
-  <a class="article-title" href="/2021/12/01/%E5%80%92%E6%95%B0%E6%97%B6%E5%88%BB-Tick-Tick%E2%80%A6Boom-2021/">倒数时刻 Tick, Tick…Boom! (2021)</a>
-</h2>
-
-
-
-    </header>
-    
-
-    
-    <div class="article-meta">
-      <a href="/2021/12/01/%E5%80%92%E6%95%B0%E6%97%B6%E5%88%BB-Tick-Tick%E2%80%A6Boom-2021/" class="article-date">
-  <time datetime="2021-12-01T03:46:31.000Z" itemprop="datePublished">2021-12-01</time>
-</a>
-      
-    </div>
-    
-
-    
-
-    <div class="article-entry" itemprop="articleBody">
-      
-      
+            </li>
         
-      
-      
-        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><blockquote>
+            <li class="home-article-item">
+
+                
+
+                <h3 class="home-article-title">
+                    <a href="/2021/12/01/%E5%80%92%E6%95%B0%E6%97%B6%E5%88%BB-Tick-Tick%E2%80%A6Boom-2021/">
+                        倒数时刻 Tick, Tick…Boom! (2021)
+                    </a>
+                </h3>
+
+                <div class="home-article-content markdown-body">
+                    
+                        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><blockquote>
 <p>安德鲁·加菲尔德确认主演林-曼努尔·米兰达长片导演首秀——Netflix新片《tick, tick…Boom!》，影片改编自著名音乐剧创作者乔纳森·拉森(《吉屋出租》)的同名自传性质剧作。1996年，拉森因马凡氏综合征引起的主动脉剥离，悲剧性地在《吉屋出租》首次预演的半天前去世，没能见证该剧此后的大热，已故的他也因此剧获得托尼奖和普利策奖。</p>
 </blockquote>
-<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimgs.tom.com%2Ffashion%2F202106%2F1003200913%2FCONTENT1623376534359.jpg&refer=http%3A%2F%2Fimgs.tom.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1640923002&t=f1c214e10790f744b75257b3d650447a" alt="title" style="zoom: 120%;" />
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimgs.tom.com%2Ffashion%2F202106%2F1003200913%2FCONTENT1623376534359.jpg&refer=http%3A%2F%2Fimgs.tom.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1640923002&t=f1c214e10790f744b75257b3d650447a"
+                      alt="title" style="zoom: 120%;" 
+                >
+                    
+                </div>
+
+                <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fas fa-history"></i>&nbsp;<span class="home-article-date" data-date="Wed Dec 01 2021 11:46:31 GMT+0800">2021-12-01</span></span>
         
-          <p>
-            <a class="article-more-link" href="/2021/12/01/%E5%80%92%E6%95%B0%E6%97%B6%E5%88%BB-Tick-Tick%E2%80%A6Boom-2021/">
-              阅读全文...
-            </a>
-          </p>
         
-      
     </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2021/12/01/%E5%80%92%E6%95%B0%E6%97%B6%E5%88%BB-Tick-Tick%E2%80%A6Boom-2021/" data-id="ckwoqcdo40005m01w2yyq2wea" class="article-share-link">
-        分享
-      </a>
-      
-    </footer>
 
-  </div>
-
-  
-
-  
-
-</article>
-    
-    <article id="post-全球风暴-Geostorm" class="article article-type-post" itemscope
-  itemprop="blogPost" data-scroll-reveal>
-
-  <div class="article-inner">
-    
-    <header class="article-header">
-      
-
-<h2 itemprop="name">
-  <a class="article-title" href="/2021/11/30/%E5%85%A8%E7%90%83%E9%A3%8E%E6%9A%B4-Geostorm/">全球风暴 Geostorm</a>
-</h2>
-
-
-
-    </header>
-    
-
-    
-    <div class="article-meta">
-      <a href="/2021/11/30/%E5%85%A8%E7%90%83%E9%A3%8E%E6%9A%B4-Geostorm/" class="article-date">
-  <time datetime="2021-11-30T09:42:03.000Z" itemprop="datePublished">2021-11-30</time>
-</a>
-      
-    </div>
-    
-
-    
-
-    <div class="article-entry" itemprop="articleBody">
-      
-      
-        
-      
-      
-        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>《全球风暴》的故事发生在未来，环境恶化导致自然灾害愈演愈烈，因此世界各国通力合作，创造了能控制天气的强大气象卫星网络。但是卫星网络突发故障开始攻击地球，摧毁一切的气象大灾变席卷世界。而随着事态发展，浩劫背后的阴谋人祸也开始浮出水面，令主人公的救世之旅面临更严峻考验。</p>
-<img src="https://img1.baidu.com/it/u=3781580487,3865496164&fm=26&fmt=auto" alt="title" style="zoom: 100%;" />
-        
-          <p>
-            <a class="article-more-link" href="/2021/11/30/%E5%85%A8%E7%90%83%E9%A3%8E%E6%9A%B4-Geostorm/">
-              阅读全文...
-            </a>
-          </p>
-        
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2021/11/30/%E5%85%A8%E7%90%83%E9%A3%8E%E6%9A%B4-Geostorm/" data-id="ckwoqcdo50007m01wh9ox1lm9" class="article-share-link">
-        分享
-      </a>
-      
-    </footer>
-
-  </div>
-
-  
-
-  
-
-</article>
-    
-    <article id="post-天国王朝-Kingdom-of-Heaven" class="article article-type-post" itemscope
-  itemprop="blogPost" data-scroll-reveal>
-
-  <div class="article-inner">
-    
-    <header class="article-header">
-      
-
-<h2 itemprop="name">
-  <a class="article-title" href="/2021/11/30/%E5%A4%A9%E5%9B%BD%E7%8E%8B%E6%9C%9D-Kingdom-of-Heaven/">天国王朝 Kingdom of Heaven</a>
-</h2>
-
-
-
-    </header>
-    
-
-    
-    <div class="article-meta">
-      <a href="/2021/11/30/%E5%A4%A9%E5%9B%BD%E7%8E%8B%E6%9C%9D-Kingdom-of-Heaven/" class="article-date">
-  <time datetime="2021-11-30T09:39:08.000Z" itemprop="datePublished">2021-11-30</time>
-</a>
-      
-    </div>
-    
-
-    
-
-    <div class="article-entry" itemprop="articleBody">
-      
-      
-        
-      
-      
-        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>《天国王朝》大部分角色基于历史人物而改编，哥伦比亚大学的Hamid Dabashi教授为该片的首席学术顾问。</p>
-<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.bimg.126.net%2Fphoto%2FpbJgERv8DAiZ80xfa1wYAg%3D%3D%2F5126503750848363004.jpg&refer=http%3A%2F%2Fimg.bimg.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1640857195&t=0bd73eae960979a2818b3d51de18d127" alt="title" style="zoom: 100%;" />
-        
-          <p>
-            <a class="article-more-link" href="/2021/11/30/%E5%A4%A9%E5%9B%BD%E7%8E%8B%E6%9C%9D-Kingdom-of-Heaven/">
-              阅读全文...
-            </a>
-          </p>
-        
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2021/11/30/%E5%A4%A9%E5%9B%BD%E7%8E%8B%E6%9C%9D-Kingdom-of-Heaven/" data-id="ckwoqcdo70009m01w7oj99ume" class="article-share-link">
-        分享
-      </a>
-      
-    </footer>
-
-  </div>
-
-  
-
-  
-
-</article>
-    
-    <article id="post-最后的决斗-The-Last-Duel" class="article article-type-post" itemscope
-  itemprop="blogPost" data-scroll-reveal>
-
-  <div class="article-inner">
-    
-    <header class="article-header">
-      
-
-<h2 itemprop="name">
-  <a class="article-title" href="/2021/11/30/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%96%97-The-Last-Duel/">最后的决斗 The Last Duel</a>
-</h2>
-
-
-
-    </header>
-    
-
-    
-    <div class="article-meta">
-      <a href="/2021/11/30/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%96%97-The-Last-Duel/" class="article-date">
-  <time datetime="2021-11-30T09:35:58.000Z" itemprop="datePublished">2021-11-30</time>
-</a>
-      
-    </div>
-    
-
-    
-
-    <div class="article-entry" itemprop="articleBody">
-      
-      
-        
-      
-      
-        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>这场复仇围绕着达蒙、阿弗莱克饰演的一对最好的朋友展开。诺曼骑士Jean de Carrouges和乡绅Jacques Le Gris是最好的朋友。然而Jean战争归来后却指控Jacques强奸了他的妻子Margerite de Carrouges(科默饰)。没有人相信这个女子的遭遇，Jean向法国国王请愿，取消维护Jacques的伯爵Pierre d’Anencon的决定。而传递下来的国王决定是让这对好友决一死战。活着的人即为胜利者，这也将成为上帝的旨意。而如果Jean失败了，她的妻子将被焚烧，作为她“诬告”Jacques的惩罚。</p>
-<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2021%252F1017%252Fd946e99aj00r13v63002qc000sg00e8c.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1640857013&t=a9ada77328e6e1ec9dac69cc9c230f69" alt="title" style="zoom: 100%;" />
-        
-          <p>
-            <a class="article-more-link" href="/2021/11/30/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%96%97-The-Last-Duel/">
-              阅读全文...
-            </a>
-          </p>
-        
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2021/11/30/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%96%97-The-Last-Duel/" data-id="ckwoqcdoh000pm01we4p5ce1r" class="article-share-link">
-        分享
-      </a>
-      
-    </footer>
-
-  </div>
-
-  
-
-  
-
-</article>
-    
-    <article id="post-楚门的世界-The-Truman-Show" class="article article-type-post" itemscope
-  itemprop="blogPost" data-scroll-reveal>
-
-  <div class="article-inner">
-    
-    <header class="article-header">
-      
-
-<h2 itemprop="name">
-  <a class="article-title" href="/2021/11/30/%E6%A5%9A%E9%97%A8%E7%9A%84%E4%B8%96%E7%95%8C-The-Truman-Show/">楚门的世界 The Truman Show</a>
-</h2>
-
-
-
-    </header>
-    
-
-    
-    <div class="article-meta">
-      <a href="/2021/11/30/%E6%A5%9A%E9%97%A8%E7%9A%84%E4%B8%96%E7%95%8C-The-Truman-Show/" class="article-date">
-  <time datetime="2021-11-30T09:29:22.000Z" itemprop="datePublished">2021-11-30</time>
-</a>
-      
-    </div>
-    
-
-    
-
-    <div class="article-entry" itemprop="articleBody">
-      
-      
-        
-      
-      
-        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>楚门（金•凯瑞 Jim Carrey 饰）是一个平凡得不能再平凡的人，除了一些有些稀奇的经历之外——初恋女友突然失踪、溺水身亡的父亲忽然似乎又出现在眼前，他和绝大多数30多岁的美国男人绝无异样。这令他倍感失落。他也曾试过离开自己生活了多年的地方，但总因种种理由而不能成行。</p>
-<img src="https://img1.baidu.com/it/u=3363180590,2580976751&fm=26&fmt=auto" alt="title" style="zoom: 120%;" />
-        
-          <p>
-            <a class="article-more-link" href="/2021/11/30/%E6%A5%9A%E9%97%A8%E7%9A%84%E4%B8%96%E7%95%8C-The-Truman-Show/">
-              阅读全文...
-            </a>
-          </p>
-        
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2021/11/30/%E6%A5%9A%E9%97%A8%E7%9A%84%E4%B8%96%E7%95%8C-The-Truman-Show/" data-id="ckwoqcdog000nm01w23k2g5l4" class="article-share-link">
-        分享
-      </a>
-      
-    </footer>
-
-  </div>
-
-  
-
-  
-
-</article>
-    
-    <article id="post-海上钢琴师-La-leggenda-del-pianista-sull-oceano" class="article article-type-post" itemscope
-  itemprop="blogPost" data-scroll-reveal>
-
-  <div class="article-inner">
-    
-    <header class="article-header">
-      
-
-<h2 itemprop="name">
-  <a class="article-title" href="/2021/11/30/%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88-La-leggenda-del-pianista-sull-oceano/">海上钢琴师 La leggenda del pianista sull&#39;oceano</a>
-</h2>
-
-
-
-    </header>
-    
-
-    
-    <div class="article-meta">
-      <a href="/2021/11/30/%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88-La-leggenda-del-pianista-sull-oceano/" class="article-date">
-  <time datetime="2021-11-30T09:19:17.000Z" itemprop="datePublished">2021-11-30</time>
-</a>
-      
-    </div>
-    
-
-    
-
-    <div class="article-entry" itemprop="articleBody">
-      
-      
-        
-      
-      
-        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>本片讲述了一个钢琴天才传奇的一生。</p>
-<img src="https://pic.rmb.bdstatic.com/aa226125b03df8fc52f9e489b285b987.jpeg" alt="title" style="zoom: 140%;" />
-        
-          <p>
-            <a class="article-more-link" href="/2021/11/30/%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88-La-leggenda-del-pianista-sull-oceano/">
-              阅读全文...
-            </a>
-          </p>
-        
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2021/11/30/%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88-La-leggenda-del-pianista-sull-oceano/" data-id="ckwoqcdoh000rm01w45280oy8" class="article-share-link">
-        分享
-      </a>
-      
-    </footer>
-
-  </div>
-
-  
-
-  
-
-</article>
-    
-    <article id="post-机器人总动员-WALL·E" class="article article-type-post" itemscope
-  itemprop="blogPost" data-scroll-reveal>
-
-  <div class="article-inner">
-    
-    <header class="article-header">
-      
-
-<h2 itemprop="name">
-  <a class="article-title" href="/2021/11/30/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%80%BB%E5%8A%A8%E5%91%98-WALL%C2%B7E/">机器人总动员 WALL·E</a>
-</h2>
-
-
-
-    </header>
-    
-
-    
-    <div class="article-meta">
-      <a href="/2021/11/30/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%80%BB%E5%8A%A8%E5%91%98-WALL%C2%B7E/" class="article-date">
-  <time datetime="2021-11-30T09:08:34.000Z" itemprop="datePublished">2021-11-30</time>
-</a>
-      
-    </div>
-    
-
-    
-
-    <div class="article-entry" itemprop="articleBody">
-      
-      
-        
-      
-      
-        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>公元2805年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托Buynlarge的公司对地球垃圾进行清理，该公司开发了名为WALL·E（Waste Allocation Loa d Lifters – Earth 地球废品分装员）的机器人担当此重任。</p>
-<img src="https://img1.baidu.com/it/u=391967602,3222159354&fm=26&fmt=auto" alt="title" style="zoom: 100%;" />
-        
-          <p>
-            <a class="article-more-link" href="/2021/11/30/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%80%BB%E5%8A%A8%E5%91%98-WALL%C2%B7E/">
-              阅读全文...
-            </a>
-          </p>
-        
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2021/11/30/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%80%BB%E5%8A%A8%E5%91%98-WALL%C2%B7E/" data-id="ckwoqcdog000om01wdstkgo02" class="article-share-link">
-        分享
-      </a>
-      
-    </footer>
-
-  </div>
-
-  
-
-  
-
-</article>
-    
-    <article id="post-放牛班的春天-Les-choristes" class="article article-type-post" itemscope
-  itemprop="blogPost" data-scroll-reveal>
-
-  <div class="article-inner">
-    
-    <header class="article-header">
-      
-
-<h2 itemprop="name">
-  <a class="article-title" href="/2021/11/30/%E6%94%BE%E7%89%9B%E7%8F%AD%E7%9A%84%E6%98%A5%E5%A4%A9-Les-choristes/">放牛班的春天 Les choristes</a>
-</h2>
-
-
-
-    </header>
-    
-
-    
-    <div class="article-meta">
-      <a href="/2021/11/30/%E6%94%BE%E7%89%9B%E7%8F%AD%E7%9A%84%E6%98%A5%E5%A4%A9-Les-choristes/" class="article-date">
-  <time datetime="2021-11-30T09:05:50.000Z" itemprop="datePublished">2021-11-30</time>
-</a>
-      
-    </div>
-    
-
-    
-
-    <div class="article-entry" itemprop="articleBody">
-      
-      
-        
-      
-      
-        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>1949年的法国乡村，音乐家克莱门特（杰勒德•尊诺 饰）到了一间外号叫“塘低”的男子寄宿学校当助理教师。学校里的学生大部分都是难缠的问题儿童，体罚在这里司空见惯，学校的校长（弗朗西斯•贝尔兰德 饰）只顾自己的前途，残暴高压。</p>
-<img src="https://img2.baidu.com/it/u=2202991900,299092475&fm=26&fmt=auto" alt="title" style="zoom: 140%;" />
-        
-          <p>
-            <a class="article-more-link" href="/2021/11/30/%E6%94%BE%E7%89%9B%E7%8F%AD%E7%9A%84%E6%98%A5%E5%A4%A9-Les-choristes/">
-              阅读全文...
-            </a>
-          </p>
-        
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2021/11/30/%E6%94%BE%E7%89%9B%E7%8F%AD%E7%9A%84%E6%98%A5%E5%A4%A9-Les-choristes/" data-id="ckwoqcdof000mm01wap8c1di9" class="article-share-link">
-        分享
-      </a>
-      
-    </footer>
-
-  </div>
-
-  
-
-  
-
-</article>
-    
-    <article id="post-盗梦空间-Inception" class="article article-type-post" itemscope
-  itemprop="blogPost" data-scroll-reveal>
-
-  <div class="article-inner">
-    
-    <header class="article-header">
-      
-
-<h2 itemprop="name">
-  <a class="article-title" href="/2021/11/30/%E7%9B%97%E6%A2%A6%E7%A9%BA%E9%97%B4-Inception/">盗梦空间 Inception</a>
-</h2>
-
-
-
-    </header>
-    
-
-    
-    <div class="article-meta">
-      <a href="/2021/11/30/%E7%9B%97%E6%A2%A6%E7%A9%BA%E9%97%B4-Inception/" class="article-date">
-  <time datetime="2021-11-30T09:02:58.000Z" itemprop="datePublished">2021-11-30</time>
-</a>
-      
-    </div>
-    
-
-    
-
-    <div class="article-entry" itemprop="articleBody">
-      
-      
-        
-      
-      
-        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>道姆·柯布（莱昂纳多·迪卡普里奥 Leonardo DiCaprio 饰）与同事阿瑟（约瑟夫·戈登-莱维特 Joseph Gordon-Levitt 饰）和纳什（卢卡斯·哈斯 Lukas Haas 饰）在一次针对日本能源大亨齐藤（渡边谦 饰）的盗梦行动中失败，反被齐藤利用。齐藤威逼利诱因遭通缉而流亡海外的柯布帮他拆分他竞争对手的公司，</p>
-<img src="https://img1.baidu.com/it/u=3389974407,1684059257&fm=26&fmt=auto" alt="title" style="zoom: 140%;" />
-        
-          <p>
-            <a class="article-more-link" href="/2021/11/30/%E7%9B%97%E6%A2%A6%E7%A9%BA%E9%97%B4-Inception/">
-              阅读全文...
-            </a>
-          </p>
-        
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2021/11/30/%E7%9B%97%E6%A2%A6%E7%A9%BA%E9%97%B4-Inception/" data-id="ckwoqcdom000zm01w34f63xy6" class="article-share-link">
-        分享
-      </a>
-      
-    </footer>
-
-  </div>
-
-  
-
-  
-
-</article>
-    
-  </article>
-  
-
-  
-  <nav class="page-nav">
-    <a class="extend prev" rel="prev" href="/page/2/">上一页</a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><span class="page-number current">3</span><a class="page-number" href="/page/4/">4</a><a class="page-number" href="/page/5/">5</a><a class="extend next" rel="next" href="/page/4/">下一页</a>
-  </nav>
-  
-</section>
+    <a href="/2021/12/01/%E5%80%92%E6%95%B0%E6%97%B6%E5%88%BB-Tick-Tick%E2%80%A6Boom-2021/">阅读全文&nbsp;<i class="fas fa-angle-right"></i></a>
 </div>
-    <footer class="footer">
-  <div class="outer">
-    <div class="float-right">
-      <ul class="list-inline">
-  
-  <li><i class="fe fe-bar-chart"></i> <span id="busuanzi_value_site_pv"></span></li>
-  
-  <li><i class="fe fe-smile-alt"></i> <span id="busuanzi_value_site_uv"></span></li>
-  
-</ul>
+
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                <h3 class="home-article-title">
+                    <a href="/2021/11/30/%E5%85%A8%E7%90%83%E9%A3%8E%E6%9A%B4-Geostorm/">
+                        全球风暴 Geostorm
+                    </a>
+                </h3>
+
+                <div class="home-article-content markdown-body">
+                    
+                        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>《全球风暴》的故事发生在未来，环境恶化导致自然灾害愈演愈烈，因此世界各国通力合作，创造了能控制天气的强大气象卫星网络。但是卫星网络突发故障开始攻击地球，摧毁一切的气象大灾变席卷世界。而随着事态发展，浩劫背后的阴谋人祸也开始浮出水面，令主人公的救世之旅面临更严峻考验。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img1.baidu.com/it/u=3781580487,3865496164&fm=26&fmt=auto"
+                      alt="title" style="zoom: 100%;" 
+                >
+                    
+                </div>
+
+                <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fas fa-history"></i>&nbsp;<span class="home-article-date" data-date="Tue Nov 30 2021 17:42:03 GMT+0800">2021-11-30</span></span>
+        
+        
     </div>
-    <ul class="list-inline">
-      <li>Pocket Movies Club &copy; 2021</li>
-      
-      <li>Powered by <a href="http://hexo.io/" target="_blank">Hexo</a></li>
-      <li>theme  <a target="_blank" rel="noopener" href="https://github.com/zhwangart/hexo-theme-ocean">Ocean</a></li>
+
+    <a href="/2021/11/30/%E5%85%A8%E7%90%83%E9%A3%8E%E6%9A%B4-Geostorm/">阅读全文&nbsp;<i class="fas fa-angle-right"></i></a>
+</div>
+
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                <h3 class="home-article-title">
+                    <a href="/2021/11/30/%E5%A4%A9%E5%9B%BD%E7%8E%8B%E6%9C%9D-Kingdom-of-Heaven/">
+                        天国王朝 Kingdom of Heaven
+                    </a>
+                </h3>
+
+                <div class="home-article-content markdown-body">
+                    
+                        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>《天国王朝》大部分角色基于历史人物而改编，哥伦比亚大学的Hamid Dabashi教授为该片的首席学术顾问。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.bimg.126.net%2Fphoto%2FpbJgERv8DAiZ80xfa1wYAg%3D%3D%2F5126503750848363004.jpg&refer=http%3A%2F%2Fimg.bimg.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1640857195&t=0bd73eae960979a2818b3d51de18d127"
+                      alt="title" style="zoom: 100%;" 
+                >
+                    
+                </div>
+
+                <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fas fa-history"></i>&nbsp;<span class="home-article-date" data-date="Tue Nov 30 2021 17:39:08 GMT+0800">2021-11-30</span></span>
+        
+        
+    </div>
+
+    <a href="/2021/11/30/%E5%A4%A9%E5%9B%BD%E7%8E%8B%E6%9C%9D-Kingdom-of-Heaven/">阅读全文&nbsp;<i class="fas fa-angle-right"></i></a>
+</div>
+
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                <h3 class="home-article-title">
+                    <a href="/2021/11/30/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%96%97-The-Last-Duel/">
+                        最后的决斗 The Last Duel
+                    </a>
+                </h3>
+
+                <div class="home-article-content markdown-body">
+                    
+                        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>这场复仇围绕着达蒙、阿弗莱克饰演的一对最好的朋友展开。诺曼骑士Jean de Carrouges和乡绅Jacques Le Gris是最好的朋友。然而Jean战争归来后却指控Jacques强奸了他的妻子Margerite de Carrouges(科默饰)。没有人相信这个女子的遭遇，Jean向法国国王请愿，取消维护Jacques的伯爵Pierre d’Anencon的决定。而传递下来的国王决定是让这对好友决一死战。活着的人即为胜利者，这也将成为上帝的旨意。而如果Jean失败了，她的妻子将被焚烧，作为她“诬告”Jacques的惩罚。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2021%252F1017%252Fd946e99aj00r13v63002qc000sg00e8c.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1640857013&t=a9ada77328e6e1ec9dac69cc9c230f69"
+                      alt="title" style="zoom: 100%;" 
+                >
+                    
+                </div>
+
+                <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fas fa-history"></i>&nbsp;<span class="home-article-date" data-date="Tue Nov 30 2021 17:35:58 GMT+0800">2021-11-30</span></span>
+        
+        
+    </div>
+
+    <a href="/2021/11/30/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%96%97-The-Last-Duel/">阅读全文&nbsp;<i class="fas fa-angle-right"></i></a>
+</div>
+
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                <h3 class="home-article-title">
+                    <a href="/2021/11/30/%E6%A5%9A%E9%97%A8%E7%9A%84%E4%B8%96%E7%95%8C-The-Truman-Show/">
+                        楚门的世界 The Truman Show
+                    </a>
+                </h3>
+
+                <div class="home-article-content markdown-body">
+                    
+                        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>楚门（金•凯瑞 Jim Carrey 饰）是一个平凡得不能再平凡的人，除了一些有些稀奇的经历之外——初恋女友突然失踪、溺水身亡的父亲忽然似乎又出现在眼前，他和绝大多数30多岁的美国男人绝无异样。这令他倍感失落。他也曾试过离开自己生活了多年的地方，但总因种种理由而不能成行。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img1.baidu.com/it/u=3363180590,2580976751&fm=26&fmt=auto"
+                      alt="title" style="zoom: 120%;" 
+                >
+                    
+                </div>
+
+                <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fas fa-history"></i>&nbsp;<span class="home-article-date" data-date="Tue Nov 30 2021 17:29:22 GMT+0800">2021-11-30</span></span>
+        
+        
+    </div>
+
+    <a href="/2021/11/30/%E6%A5%9A%E9%97%A8%E7%9A%84%E4%B8%96%E7%95%8C-The-Truman-Show/">阅读全文&nbsp;<i class="fas fa-angle-right"></i></a>
+</div>
+
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                <h3 class="home-article-title">
+                    <a href="/2021/11/30/%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88-La-leggenda-del-pianista-sull-oceano/">
+                        海上钢琴师 La leggenda del pianista sull&#39;oceano
+                    </a>
+                </h3>
+
+                <div class="home-article-content markdown-body">
+                    
+                        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>本片讲述了一个钢琴天才传奇的一生。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.rmb.bdstatic.com/aa226125b03df8fc52f9e489b285b987.jpeg"
+                      alt="title" style="zoom: 140%;" 
+                >
+                    
+                </div>
+
+                <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fas fa-history"></i>&nbsp;<span class="home-article-date" data-date="Tue Nov 30 2021 17:19:17 GMT+0800">2021-11-30</span></span>
+        
+        
+    </div>
+
+    <a href="/2021/11/30/%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88-La-leggenda-del-pianista-sull-oceano/">阅读全文&nbsp;<i class="fas fa-angle-right"></i></a>
+</div>
+
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                <h3 class="home-article-title">
+                    <a href="/2021/11/30/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%80%BB%E5%8A%A8%E5%91%98-WALL%C2%B7E/">
+                        机器人总动员 WALL·E
+                    </a>
+                </h3>
+
+                <div class="home-article-content markdown-body">
+                    
+                        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>公元2805年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托Buynlarge的公司对地球垃圾进行清理，该公司开发了名为WALL·E（Waste Allocation Loa d Lifters – Earth 地球废品分装员）的机器人担当此重任。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img1.baidu.com/it/u=391967602,3222159354&fm=26&fmt=auto"
+                      alt="title" style="zoom: 100%;" 
+                >
+                    
+                </div>
+
+                <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fas fa-history"></i>&nbsp;<span class="home-article-date" data-date="Tue Nov 30 2021 17:08:34 GMT+0800">2021-11-30</span></span>
+        
+        
+    </div>
+
+    <a href="/2021/11/30/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%80%BB%E5%8A%A8%E5%91%98-WALL%C2%B7E/">阅读全文&nbsp;<i class="fas fa-angle-right"></i></a>
+</div>
+
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                <h3 class="home-article-title">
+                    <a href="/2021/11/30/%E6%94%BE%E7%89%9B%E7%8F%AD%E7%9A%84%E6%98%A5%E5%A4%A9-Les-choristes/">
+                        放牛班的春天 Les choristes
+                    </a>
+                </h3>
+
+                <div class="home-article-content markdown-body">
+                    
+                        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>1949年的法国乡村，音乐家克莱门特（杰勒德•尊诺 饰）到了一间外号叫“塘低”的男子寄宿学校当助理教师。学校里的学生大部分都是难缠的问题儿童，体罚在这里司空见惯，学校的校长（弗朗西斯•贝尔兰德 饰）只顾自己的前途，残暴高压。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img2.baidu.com/it/u=2202991900,299092475&fm=26&fmt=auto"
+                      alt="title" style="zoom: 140%;" 
+                >
+                    
+                </div>
+
+                <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fas fa-history"></i>&nbsp;<span class="home-article-date" data-date="Tue Nov 30 2021 17:05:50 GMT+0800">2021-11-30</span></span>
+        
+        
+    </div>
+
+    <a href="/2021/11/30/%E6%94%BE%E7%89%9B%E7%8F%AD%E7%9A%84%E6%98%A5%E5%A4%A9-Les-choristes/">阅读全文&nbsp;<i class="fas fa-angle-right"></i></a>
+</div>
+
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                <h3 class="home-article-title">
+                    <a href="/2021/11/30/%E7%9B%97%E6%A2%A6%E7%A9%BA%E9%97%B4-Inception/">
+                        盗梦空间 Inception
+                    </a>
+                </h3>
+
+                <div class="home-article-content markdown-body">
+                    
+                        <h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><p>道姆·柯布（莱昂纳多·迪卡普里奥 Leonardo DiCaprio 饰）与同事阿瑟（约瑟夫·戈登-莱维特 Joseph Gordon-Levitt 饰）和纳什（卢卡斯·哈斯 Lukas Haas 饰）在一次针对日本能源大亨齐藤（渡边谦 饰）的盗梦行动中失败，反被齐藤利用。齐藤威逼利诱因遭通缉而流亡海外的柯布帮他拆分他竞争对手的公司，</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img1.baidu.com/it/u=3389974407,1684059257&fm=26&fmt=auto"
+                      alt="title" style="zoom: 140%;" 
+                >
+                    
+                </div>
+
+                <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fas fa-history"></i>&nbsp;<span class="home-article-date" data-date="Tue Nov 30 2021 17:02:58 GMT+0800">2021-11-30</span></span>
+        
+        
+    </div>
+
+    <a href="/2021/11/30/%E7%9B%97%E6%A2%A6%E7%A9%BA%E9%97%B4-Inception/">阅读全文&nbsp;<i class="fas fa-angle-right"></i></a>
+</div>
+
+            </li>
+        
     </ul>
-  </div>
+
+    <div class="home-paginator">
+        <div class="paginator">
+    
+        <a class="prev btn"
+           href="/page/2/"
+        >上一页</a>
+    
+
+    
+        <a class="next btn"
+           href="/page/4/"
+        >下一页</a>
+    
+</div>
+
+    </div>
+</div>
+
+
+                
+            </div>
+
+        </div>
+
+        <div class="page-main-content-bottom">
+            <footer class="footer">
+    <div class="info-container">
+        <div class="copyright-info info-item">
+            &copy;
+            
+              <span>2021</span>
+              -
+            
+            2021&nbsp;<i class="fas fa-heart icon-animate"></i>&nbsp;<a href="/">Maniac Ravings</a>
+        </div>
+        
+            <script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <div class="website-count info-item">
+                
+                    <span id="busuanzi_container_site_uv">
+                        访问人数&nbsp;<span id="busuanzi_value_site_uv"></span>&ensp;
+                    </span>
+                
+                
+                    <span id="busuanzi_container_site_pv">
+                        总访问量&nbsp;<span id="busuanzi_value_site_pv"></span>
+                    </span>
+                
+            </div>
+        
+        <div class="theme-info info-item">
+            由 <a target="_blank" href="https://hexo.io">Hexo</a> 驱动&nbsp;|&nbsp;主题&nbsp;<a class="theme-version" target="_blank" href="https://github.com/XPoet/hexo-theme-keep">Keep v3.4.3</a>
+        </div>
+        
+        
+    </div>
 </footer>
-  </main>
-  <aside class="sidebar">
-    <button class="navbar-toggle"></button>
-<nav class="navbar">
-  
-  <div class="logo">
-    <a href="/"><img src="/images/hexo.svg" alt="Pocket Movies Club"></a>
-  </div>
-  
-  <ul class="nav nav-main">
+
+        </div>
+    </div>
+
     
-    <li class="nav-item">
-      <a class="nav-item-link" href="/">主页</a>
-    </li>
-    
-    <li class="nav-item">
-      <a class="nav-item-link" href="/archives">归档</a>
-    </li>
-    
-    <li class="nav-item">
-      <a class="nav-item-link" href="/gallery">相册</a>
-    </li>
-    
-    <li class="nav-item">
-      <a class="nav-item-link" href="/about">关于</a>
-    </li>
-    
-    <li class="nav-item">
-      <a class="nav-item-link nav-item-search" title="搜索">
-        <i class="fe fe-search"></i>
-        搜索
-      </a>
-    </li>
-  </ul>
-</nav>
-<nav class="navbar navbar-bottom">
-  <ul class="nav">
-    <li class="nav-item">
-      <div class="totop" id="totop">
-  <i class="fe fe-rocket"></i>
+
+    <div class="right-bottom-side-tools">
+        <div class="side-tools-container">
+    <ul class="side-tools-list">
+        <li class="tools-item tool-font-adjust-plus flex-center">
+            <i class="fas fa-search-plus"></i>
+        </li>
+
+        <li class="tools-item tool-font-adjust-minus flex-center">
+            <i class="fas fa-search-minus"></i>
+        </li>
+
+        <li class="tools-item tool-expand-width flex-center">
+            <i class="fas fa-arrows-alt-h"></i>
+        </li>
+
+        <li class="tools-item tool-dark-light-toggle flex-center">
+            <i class="fas fa-moon"></i>
+        </li>
+
+        <!-- rss -->
+        
+            <li class="tools-item rss flex-center">
+                <a class="flex-center"
+                   href="/atom.xml"
+                   target="_blank"
+                >
+                    <i class="fas fa-rss"></i>
+                </a>
+            </li>
+        
+
+        
+
+        <li class="tools-item tool-scroll-to-bottom flex-center">
+            <i class="fas fa-arrow-down"></i>
+        </li>
+    </ul>
+
+    <ul class="exposed-tools-list">
+        <li class="tools-item tool-toggle-show flex-center">
+            <i class="fas fa-cog fa-spin"></i>
+        </li>
+        
+            <li class="tools-item tool-scroll-to-top flex-center">
+                <i class="arrow-up fas fa-arrow-up"></i>
+                <span class="percent"></span>
+            </li>
+        
+    </ul>
 </div>
-    </li>
-    <li class="nav-item">
-      
-      <a class="nav-item-link" target="_blank" href="/atom.xml" title="RSS Feed">
-        <i class="fe fe-feed"></i>
-      </a>
-      
-    </li>
-  </ul>
-</nav>
-<div class="search-form-wrap">
-  <div class="local-search local-search-plugin">
-  <input type="search" id="local-search-input" class="local-search-input" placeholder="Search...">
-  <div id="local-search-result" class="local-search-result"></div>
+
+    </div>
+
+    
+
+    <div class="image-viewer-container">
+    <img src="">
 </div>
+
+
+    
+        <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+          <span class="search-input-field-pre">
+            <i class="fas fa-keyboard"></i>
+          </span>
+            <div class="search-input-container">
+                <input autocomplete="off"
+                       autocorrect="off"
+                       autocapitalize="off"
+                       placeholder="搜索..."
+                       spellcheck="false"
+                       type="search"
+                       class="search-input"
+                >
+            </div>
+            <span class="popup-btn-close">
+                <i class="fas fa-times"></i>
+            </span>
+        </div>
+        <div id="search-result">
+            <div id="no-result">
+                <i class="fas fa-spinner fa-pulse fa-5x fa-fw"></i>
+            </div>
+        </div>
+    </div>
 </div>
-  </aside>
-  
-<script src="/js/jquery-2.0.3.min.js"></script>
 
+    
 
-<script src="/js/jquery.justifiedGallery.min.js"></script>
-
-
-<script src="/js/lazyload.min.js"></script>
-
-
-<script src="/js/busuanzi-2.3.pure.min.js"></script>
+</main>
 
 
 
-<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+<script src="//cdn.jsdelivr.net/npm/hexo-theme-keep@3.4.3/source/js/utils.js"></script><script src="//cdn.jsdelivr.net/npm/hexo-theme-keep@3.4.3/source/js/main.js"></script><script src="//cdn.jsdelivr.net/npm/hexo-theme-keep@3.4.3/source/js/header-shrink.js"></script><script src="//cdn.jsdelivr.net/npm/hexo-theme-keep@3.4.3/source/js/back2top.js"></script><script src="//cdn.jsdelivr.net/npm/hexo-theme-keep@3.4.3/source/js/dark-light-toggle.js"></script>
+
+
+    <script src="//cdn.jsdelivr.net/npm/hexo-theme-keep@3.4.3/source/js/local-search.js"></script>
 
 
 
 
 
+    <script src="//cdn.jsdelivr.net/npm/hexo-theme-keep@3.4.3/source/js/lazyload.js"></script>
 
 
-<script src="/js/ocean.js"></script>
+<div class="post-scripts pjax">
+    
+</div>
+
+
+    <script src="//cdn.jsdelivr.net/npm/hexo-theme-keep@3.4.3/source/js/libs/pjax.min.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', () => {
+        window.pjax = new Pjax({
+            selectors: [
+                'head title',
+                '.page-container',
+                '.pjax'
+            ],
+            history: true,
+            debug: false,
+            cacheBust: false,
+            timeout: 0,
+            analytics: false,
+            currentUrlFullReload: false,
+            scrollRestoration: false,
+            // scrollTo: true,
+        });
+
+        document.addEventListener('pjax:send', () => {
+            KEEP.utils.pjaxProgressBarStart();
+        });
+
+        document.addEventListener('pjax:complete', () => {
+            KEEP.utils.pjaxProgressBarEnd();
+            window.pjax.executeScripts(document.querySelectorAll('script[data-pjax], .pjax script'));
+            KEEP.refresh();
+        });
+    });
+</script>
+
+
 
 </body>
-
 </html>
