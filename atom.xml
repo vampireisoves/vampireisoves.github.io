@@ -233,9 +233,9 @@
     <category term="剧集" scheme="http://example.com/categories/%E5%89%A7%E9%9B%86/"/>
     
     
-    <category term="喜剧" scheme="http://example.com/tags/%E5%96%9C%E5%89%A7/"/>
-    
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
+    
+    <category term="喜剧" scheme="http://example.com/tags/%E5%96%9C%E5%89%A7/"/>
     
     <category term="家庭" scheme="http://example.com/tags/%E5%AE%B6%E5%BA%AD/"/>
     
@@ -268,9 +268,9 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="喜剧" scheme="http://example.com/tags/%E5%96%9C%E5%89%A7/"/>
-    
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
+    
+    <category term="喜剧" scheme="http://example.com/tags/%E5%96%9C%E5%89%A7/"/>
     
   </entry>
   
@@ -334,9 +334,9 @@
     
     <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
     
-    <category term="科幻" scheme="http://example.com/tags/%E7%A7%91%E5%B9%BB/"/>
-    
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
+    
+    <category term="科幻" scheme="http://example.com/tags/%E7%A7%91%E5%B9%BB/"/>
     
   </entry>
   
@@ -367,9 +367,9 @@
     
     <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
     
-    <category term="科幻" scheme="http://example.com/tags/%E7%A7%91%E5%B9%BB/"/>
-    
     <category term="人性" scheme="http://example.com/tags/%E4%BA%BA%E6%80%A7/"/>
+    
+    <category term="科幻" scheme="http://example.com/tags/%E7%A7%91%E5%B9%BB/"/>
     
   </entry>
   
@@ -398,9 +398,9 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="喜剧" scheme="http://example.com/tags/%E5%96%9C%E5%89%A7/"/>
-    
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
+    
+    <category term="喜剧" scheme="http://example.com/tags/%E5%96%9C%E5%89%A7/"/>
     
   </entry>
   
