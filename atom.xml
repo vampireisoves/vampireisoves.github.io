@@ -603,9 +603,9 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
-    
     <category term="X战警系列" scheme="http://example.com/tags/X%E6%88%98%E8%AD%A6%E7%B3%BB%E5%88%97/"/>
+    
+    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
     
     <category term="奇幻" scheme="http://example.com/tags/%E5%A5%87%E5%B9%BB/"/>
     
@@ -636,13 +636,13 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
-    
-    <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
-    
     <category term="X战警系列" scheme="http://example.com/tags/X%E6%88%98%E8%AD%A6%E7%B3%BB%E5%88%97/"/>
     
     <category term="科幻" scheme="http://example.com/tags/%E7%A7%91%E5%B9%BB/"/>
+    
+    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
+    
+    <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
     
   </entry>
   
@@ -671,11 +671,11 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
-    
     <category term="X战警系列" scheme="http://example.com/tags/X%E6%88%98%E8%AD%A6%E7%B3%BB%E5%88%97/"/>
     
     <category term="科幻" scheme="http://example.com/tags/%E7%A7%91%E5%B9%BB/"/>
+    
+    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
     
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
