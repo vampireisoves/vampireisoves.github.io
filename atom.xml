@@ -305,9 +305,9 @@
     
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
-    <category term="传记" scheme="http://example.com/tags/%E4%BC%A0%E8%AE%B0/"/>
-    
     <category term="家庭" scheme="http://example.com/tags/%E5%AE%B6%E5%BA%AD/"/>
+    
+    <category term="传记" scheme="http://example.com/tags/%E4%BC%A0%E8%AE%B0/"/>
     
     <category term="励志" scheme="http://example.com/tags/%E5%8A%B1%E5%BF%97/"/>
     
