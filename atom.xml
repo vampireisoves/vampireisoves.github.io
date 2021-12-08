@@ -507,11 +507,11 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
+    <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
+    
     <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
     
     <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
-    
-    <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
     <category term="浪客剑心" scheme="http://example.com/tags/%E6%B5%AA%E5%AE%A2%E5%89%91%E5%BF%83/"/>
     
@@ -542,11 +542,11 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
+    <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
+    
     <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
     
     <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
-    
-    <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
     <category term="浪客剑心" scheme="http://example.com/tags/%E6%B5%AA%E5%AE%A2%E5%89%91%E5%BF%83/"/>
     
@@ -577,9 +577,9 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
-    
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
+    
+    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
     
     <category term="浪客剑心" scheme="http://example.com/tags/%E6%B5%AA%E5%AE%A2%E5%89%91%E5%BF%83/"/>
     
@@ -643,11 +643,11 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
-    
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
     <category term="历史" scheme="http://example.com/tags/%E5%8E%86%E5%8F%B2/"/>
+    
+    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
     
     <category term="浪客剑心" scheme="http://example.com/tags/%E6%B5%AA%E5%AE%A2%E5%89%91%E5%BF%83/"/>
     
