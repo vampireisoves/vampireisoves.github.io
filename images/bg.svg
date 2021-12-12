@@ -1,39 +1,98 @@
-<svg
-  version="1.1"
-  baseProfile="full"
-  width="100%" height="100%"
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 1400 800"
->
-
-  <rect x="1300" y="400" rx="40" ry="40" width="300" height="300" stroke="rgb(129, 201, 149)" fill="rgb(129, 201, 149)">
-    <animateTransform attributeType="XML" attributeName="transform" begin="0s" dur="35s" type="rotate" from="0 1450 550" to="360 1450 550" repeatCount="indefinite" />
-  </rect>
-
-  <path d="M 100 350 A 150 150 0 1 1 400 350 Q400 370 380 370 L 250 370 L 120 370 Q100 370 100 350" stroke="rgb(253, 214, 99)" fill="rgb(253, 214, 99)">
-    <animateMotion path="M 800 -200 L 800 -300 L 800 -200" dur="20s" begin="0s" repeatCount="indefinite" />
-    <animateTransform attributeType="XML" attributeName="transform" begin="0s" dur="30s" type="rotate" values="0 210 530 ; -30 210 530 ; 0 210 530" keyTimes="0 ; 0.5 ; 1" repeatCount="indefinite" />
-  </path>
-
-  <circle cx="200" cy="150" r="20" stroke="#1a73e8" fill="#1a73e8">
-    <animateMotion path="M 0 0 L 40 20 Z" dur="5s" repeatCount="indefinite" />
-  </circle>
-
-  <!-- 三角形 -->
-  <path d="M 165 580 L 270 580 Q275 578 270 570 L 223 483 Q220 480 217 483 L 165 570 Q160 578 165 580" stroke="rgb(238, 103, 92)" fill="rgb(238, 103, 92)">
-    <animateTransform attributeType="XML" attributeName="transform" begin="0s" dur="35s" type="rotate" from="0 210 530" to="360 210 530" repeatCount="indefinite" />
-  </path>
-
-  <circle cx="1200" cy="600" r="30" stroke="rgb(241, 243, 244)" fill="rgb(241, 243, 244)">
-    <animateMotion path="M 0 0 L -20 40 Z" dur="9s" repeatCount="indefinite" />
-  </circle>
-
-  <path d="M 100 350 A 40 40 0 1 1 180 350 L 180 430 A 40 40 0 1 1 100 430 Z" stroke="rgb(241, 243, 244)" fill="rgb(241, 243, 244)">
-    <animateMotion path="M 140 390 L 180 360 L 140 390" dur="20s" begin="0s" repeatCount="indefinite" />
-    <animateTransform attributeType="XML" attributeName="transform" begin="0s" dur="30s" type="rotate" values="0 140 390; -60 140 390; 0 140 390" keyTimes="0 ; 0.5 ; 1" repeatCount="indefinite" />
-  </path>
-
-  <rect x="400" y="600" rx="40" ry="40" width="100" height="100" stroke="rgb(129, 201, 149)" fill="rgb(129, 201, 149)">
-    <animateTransform attributeType="XML" attributeName="transform" begin="0s" dur="35s" type="rotate" from="-30 550 750" to="330 550 750" repeatCount="indefinite" />
-  </rect>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#81C995;stroke:#81C995;stroke-width:1.35;stroke-miterlimit:5.4;}
+	.st1{fill:#FDD663;stroke:#FDD663;stroke-width:1.35;stroke-miterlimit:5.4;}
+	.st2{fill:#1A73E8;stroke:#1A73E8;stroke-width:1.35;stroke-miterlimit:5.4;}
+	.st3{fill:#EE675C;stroke:#EE675C;stroke-width:1.35;stroke-miterlimit:5.4;}
+	.st4{fill:#F1F3F4;stroke:#F1F3F4;stroke-width:1.35;stroke-miterlimit:5.4;}
+	.st5{fill:#CD1C30;}
+	.st6{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M1824,540h297c29.8,0,54,24.2,54,54v297c0,29.8-24.2,54-54,54h-297c-29.8,0-54-24.2-54-54V594
+	C1770,564.2,1794.2,540,1824,540z">
+<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="35s" fill="remove" from="0 1450 550" repeatCount="indefinite" restart="always" to="360 1450 550" type="rotate">
+		</animateTransform>
+</path>
+<path class="st1" d="M150,472.5C150,360.7,240.7,270,352.5,270S555,360.7,555,472.5c0,18-9,27-27,27H352.5H177
+	C159,499.5,150,490.5,150,472.5">
+<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="20s" fill="remove" path="M 800 -200 L 800 -300 L 800 -200" repeatCount="indefinite" restart="always">
+		</animateMotion>
+	
+		<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="30s" fill="remove" keyTimes="0 ; 0.5 ; 1" repeatCount="indefinite" restart="always" type="rotate" values="0 210 530 ; -30 210 530 ; 0 210 530">
+		</animateTransform>
+</path>
+<circle class="st2" cx="285" cy="202.5" r="27">
+<animateMotion  accumulate="none" additive="replace" calcMode="paced" dur="5s" fill="remove" path="M 0 0 L 40 20 Z" repeatCount="indefinite" restart="always">
+	</animateMotion>
+</circle>
+<path class="st3" d="M237.8,783h141.8c4.5-1.8,4.5-6.3,0-13.5L316.1,652c-2.7-2.7-5.4-2.7-8.1,0l-70.2,117.5
+	C233.3,776.7,233.3,781.2,237.8,783">
+<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="35s" fill="remove" from="0 210 530" repeatCount="indefinite" restart="always" to="360 210 530" type="rotate">
+		</animateTransform>
+</path>
+<circle class="st4" cx="1635" cy="810" r="40.5">
+<animateMotion  accumulate="none" additive="replace" calcMode="paced" dur="9s" fill="remove" path="M 0 0 L -20 40 Z" repeatCount="indefinite" restart="always">
+	</animateMotion>
+</circle>
+<path class="st4" d="M150,472.5c0-29.8,24.2-54,54-54s54,24.2,54,54v108c0,29.8-24.2,54-54,54s-54-24.2-54-54V472.5z">
+<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="20s" fill="remove" path="M 140 390 L 180 360 L 140 390" repeatCount="indefinite" restart="always">
+		</animateMotion>
+	
+		<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="30s" fill="remove" keyTimes="0 ; 0.5 ; 1" repeatCount="indefinite" restart="always" type="rotate" values="0 140 390; -60 140 390; 0 140 390">
+		</animateTransform>
+</path>
+<path class="st0" d="M609,810h27c29.8,0,54,24.2,54,54v27c0,29.8-24.2,54-54,54h-27c-29.8,0-54-24.2-54-54v-27
+	C555,834.2,579.2,810,609,810z">
+<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="35s" fill="remove" from="-30 550 750" repeatCount="indefinite" restart="always" to="330 550 750" type="rotate">
+		</animateTransform>
+</path>
+<path class="st1" d="M1698.1,270c-111.8,0-202.5-90.7-202.5-202.5S1586.2-135,1698.1-135c18,0,27,9,27,27V67.5V243
+	C1725.1,261,1716.1,270,1698.1,270">
+<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="20s" fill="remove" path="M 800 -200 L 800 -300 L 800 -200" repeatCount="indefinite" restart="always">
+		</animateMotion>
+	
+		<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="30s" fill="remove" keyTimes="0 ; 0.5 ; 1" repeatCount="indefinite" restart="always" type="rotate" values="0 210 530 ; -30 210 530 ; 0 210 530">
+		</animateTransform>
+</path>
+<path class="st3" d="M1520.2,347.6v141.8c1.8,4.5,6.3,4.5,13.5,0l117.5-63.5c2.7-2.7,2.7-5.4,0-8.1l-117.5-70.2
+	C1526.6,343.1,1522.1,343.1,1520.2,347.6">
+<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="35s" fill="remove" from="0 210 530" repeatCount="indefinite" restart="always" to="360 210 530" type="rotate">
+		</animateTransform>
+</path>
+<path class="st0" d="M758.2-25.2h27c29.8,0,54,24.2,54,54v27c0,29.8-24.2,54-54,54h-27c-29.8,0-54-24.2-54-54v-27
+	C704.2-1,728.4-25.2,758.2-25.2z">
+<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="35s" fill="remove" from="-30 550 750" repeatCount="indefinite" restart="always" to="330 550 750" type="rotate">
+		</animateTransform>
+</path>
+<path class="st4" d="M1945.1,270c29.8,0,54,24.2,54,54s-24.2,54-54,54h-108c-29.8,0-54-24.2-54-54s24.2-54,54-54H1945.1z">
+<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="20s" fill="remove" path="M 140 390 L 180 360 L 140 390" repeatCount="indefinite" restart="always">
+		</animateMotion>
+	
+		<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="30s" fill="remove" keyTimes="0 ; 0.5 ; 1" repeatCount="indefinite" restart="always" type="rotate" values="0 140 390; -60 140 390; 0 140 390">
+		</animateTransform>
+</path>
+<circle class="st2" cx="1388.6" cy="918" r="27">
+<animateMotion  accumulate="none" additive="replace" calcMode="paced" dur="5s" fill="remove" path="M 0 0 L 40 20 Z" repeatCount="indefinite" restart="always">
+	</animateMotion>
+</circle>
+<g>
+	<path class="st5" d="M990.5,873.7H933c-23.5,0-42.5-19-42.5-42.5v-57.5c0-23.5,19-42.5,42.5-42.5h57.5c23.5,0,42.5,19,42.5,42.5
+		v57.5C1032.9,854.7,1014,873.7,990.5,873.7z"/>
+	<rect x="914.5" y="837.1" class="st6" width="92.2" height="12.8"/>
+	<path class="st6" d="M996.3,825.1H925c-5.8,0-10.5-4.7-10.5-10.5v-46.6c0-5.8,4.7-10.5,10.5-10.5h71.3c5.8,0,10.5,4.7,10.5,10.5
+		v46.6C1006.8,820.5,1002.1,825.1,996.3,825.1z"/>
+	<path class="st5" d="M997.4,837.1h-73.5c-7.1,0-12.9-5.8-12.9-12.9v-5.1c0-7.1,5.8-12.9,12.9-12.9h73.5c7.1,0,12.9,5.8,12.9,12.9v5
+		C1010.3,831.3,1004.5,837.1,997.4,837.1z"/>
+	<rect x="923.8" y="767.4" class="st5" width="73.7" height="48"/>
+	<polygon class="st6" points="972.1,797.3 952.6,781.4 952.6,813.3 	"/>
+	<path class="st6" d="M933.7,849.9h-6.2c-5,0-9.1-4.1-9.1-9.1v-14c0-5,4.1-9.1,9.1-9.1h6.2c5,0,9.1,4.1,9.1,9.1v14
+		C942.8,845.8,938.8,849.9,933.7,849.9z"/>
+	<path class="st6" d="M963.4,849.9h-6.2c-5,0-9.1-4.1-9.1-9.1v-14c0-5,4.1-9.1,9.1-9.1h6.2c5,0,9.1,4.1,9.1,9.1v14
+		C972.5,845.8,968.4,849.9,963.4,849.9z"/>
+	<path class="st6" d="M993.1,849.9h-6.2c-5,0-9.1-4.1-9.1-9.1v-14c0-5,4.1-9.1,9.1-9.1h6.2c5,0,9.1,4.1,9.1,9.1v14
+		C1002.2,845.8,998.2,849.9,993.1,849.9z"/>
+</g>
 </svg>
