@@ -3,96 +3,85 @@
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#81C995;stroke:#81C995;stroke-width:1.35;stroke-miterlimit:5.4;}
-	.st1{fill:#FDD663;stroke:#FDD663;stroke-width:1.35;stroke-miterlimit:5.4;}
-	.st2{fill:#1A73E8;stroke:#1A73E8;stroke-width:1.35;stroke-miterlimit:5.4;}
-	.st3{fill:#EE675C;stroke:#EE675C;stroke-width:1.35;stroke-miterlimit:5.4;}
-	.st4{fill:#F1F3F4;stroke:#F1F3F4;stroke-width:1.35;stroke-miterlimit:5.4;}
-	.st5{fill:#CD1C30;}
-	.st6{fill:#FFFFFF;}
+	.st0{fill:#F18B1A;}
+	.st1{fill:#FDD663;}
+	.st2{fill:#5DB530;}
+	.st3{fill:#FCE3C7;}
+	.st4{fill:#0C8E5D;}
+	.st5{fill:#706128;}
+	.st6{fill:#172D82;}
+	.st7{fill:#D4A9CE;}
+	.st8{fill:#EE675C;}
+	.st9{fill:#85CEDE;}
+	.st10{fill:#E52B8A;}
+	.st11{fill:#1A73E8;}
 </style>
-<path class="st0" d="M1824,540h297c29.8,0,54,24.2,54,54v297c0,29.8-24.2,54-54,54h-297c-29.8,0-54-24.2-54-54V594
-	C1770,564.2,1794.2,540,1824,540z">
+<path class="st0" d="M1602.7,690.5h190c19.1,0,34.5,15.5,34.5,34.5v190c0,19.1-15.5,34.5-34.5,34.5h-190
+	c-19.1,0-34.5-15.5-34.5-34.5V725C1568.2,706,1583.7,690.5,1602.7,690.5z">
 <animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="35s" fill="remove" from="0 1450 550" repeatCount="indefinite" restart="always" to="360 1450 550" type="rotate">
 		</animateTransform>
 </path>
-<path class="st1" d="M150,472.5C150,360.7,240.7,270,352.5,270S555,360.7,555,472.5c0,18-9,27-27,27H352.5H177
-	C159,499.5,150,490.5,150,472.5">
+<path class="st1" d="M284.8,419.1c0-111.8,90.7-202.5,202.5-202.5s202.5,90.7,202.5,202.5c0,18-9,27-27,27H487.3H311.8
+	C293.8,446.1,284.8,437.1,284.8,419.1">
 <animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="20s" fill="remove" path="M 800 -200 L 800 -300 L 800 -200" repeatCount="indefinite" restart="always">
 		</animateMotion>
 	
 		<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="30s" fill="remove" keyTimes="0 ; 0.5 ; 1" repeatCount="indefinite" restart="always" type="rotate" values="0 210 530 ; -30 210 530 ; 0 210 530">
 		</animateTransform>
 </path>
-<circle class="st2" cx="285" cy="202.5" r="27">
+<ellipse transform="matrix(0.3162 -0.9487 0.9487 0.3162 -9.8145 365.5834)" class="st2" cx="248.7" cy="189.6" rx="27" ry="27">
 <animateMotion  accumulate="none" additive="replace" calcMode="paced" dur="5s" fill="remove" path="M 0 0 L 40 20 Z" repeatCount="indefinite" restart="always">
 	</animateMotion>
-</circle>
-<path class="st3" d="M237.8,783h141.8c4.5-1.8,4.5-6.3,0-13.5L316.1,652c-2.7-2.7-5.4-2.7-8.1,0l-70.2,117.5
-	C233.3,776.7,233.3,781.2,237.8,783">
+</ellipse>
+<path class="st3" d="M364.4,823.5h141.8c4.5-1.8,4.5-6.3,0-13.5l-63.5-117.5c-2.7-2.7-5.4-2.7-8.1,0L364.4,810
+	C359.9,817.2,359.9,821.7,364.4,823.5">
 <animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="35s" fill="remove" from="0 210 530" repeatCount="indefinite" restart="always" to="360 210 530" type="rotate">
 		</animateTransform>
 </path>
-<circle class="st4" cx="1635" cy="810" r="40.5">
+<circle class="st4" cx="1399.3" cy="690.5" r="40.5">
 <animateMotion  accumulate="none" additive="replace" calcMode="paced" dur="9s" fill="remove" path="M 0 0 L -20 40 Z" repeatCount="indefinite" restart="always">
 	</animateMotion>
 </circle>
-<path class="st4" d="M150,472.5c0-29.8,24.2-54,54-54s54,24.2,54,54v108c0,29.8-24.2,54-54,54s-54-24.2-54-54V472.5z">
+<path class="st5" d="M80.6,536.1c0-29.8,24.2-54,54-54s54,24.2,54,54v108c0,29.8-24.2,54-54,54s-54-24.2-54-54
+	C80.6,644.1,80.6,536.1,80.6,536.1z">
 <animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="20s" fill="remove" path="M 140 390 L 180 360 L 140 390" repeatCount="indefinite" restart="always">
 		</animateMotion>
 	
 		<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="30s" fill="remove" keyTimes="0 ; 0.5 ; 1" repeatCount="indefinite" restart="always" type="rotate" values="0 140 390; -60 140 390; 0 140 390">
 		</animateTransform>
 </path>
-<path class="st0" d="M609,810h27c29.8,0,54,24.2,54,54v27c0,29.8-24.2,54-54,54h-27c-29.8,0-54-24.2-54-54v-27
-	C555,834.2,579.2,810,609,810z">
+<path class="st6" d="M698.9,835h27c29.8,0,54,24.2,54,54v27c0,29.8-24.2,54-54,54h-27c-29.8,0-54-24.2-54-54v-27
+	C644.9,859.2,669.1,835,698.9,835z">
 <animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="35s" fill="remove" from="-30 550 750" repeatCount="indefinite" restart="always" to="330 550 750" type="rotate">
 		</animateTransform>
 </path>
-<path class="st1" d="M1698.1,270c-111.8,0-202.5-90.7-202.5-202.5S1586.2-135,1698.1-135c18,0,27,9,27,27V67.5V243
-	C1725.1,261,1716.1,270,1698.1,270">
+<path class="st7" d="M1527.6,280.2c-111.8,0-202.5-90.7-202.5-202.5s90.6-202.5,202.5-202.5c18,0,27,9,27,27V77.7v175.5
+	C1554.6,271.2,1545.6,280.2,1527.6,280.2">
 <animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="20s" fill="remove" path="M 800 -200 L 800 -300 L 800 -200" repeatCount="indefinite" restart="always">
 		</animateMotion>
 	
 		<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="30s" fill="remove" keyTimes="0 ; 0.5 ; 1" repeatCount="indefinite" restart="always" type="rotate" values="0 210 530 ; -30 210 530 ; 0 210 530">
 		</animateTransform>
 </path>
-<path class="st3" d="M1520.2,347.6v141.8c1.8,4.5,6.3,4.5,13.5,0l117.5-63.5c2.7-2.7,2.7-5.4,0-8.1l-117.5-70.2
-	C1526.6,343.1,1522.1,343.1,1520.2,347.6">
+<path class="st8" d="M1344.5,381.4v141.8c1.8,4.5,6.3,4.5,13.5,0l117.5-63.5c2.7-2.7,2.7-5.4,0-8.1L1358,381.4
+	C1350.9,376.9,1346.4,376.9,1344.5,381.4">
 <animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="35s" fill="remove" from="0 210 530" repeatCount="indefinite" restart="always" to="360 210 530" type="rotate">
 		</animateTransform>
 </path>
-<path class="st0" d="M758.2-25.2h27c29.8,0,54,24.2,54,54v27c0,29.8-24.2,54-54,54h-27c-29.8,0-54-24.2-54-54v-27
-	C704.2-1,728.4-25.2,758.2-25.2z">
+<path class="st9" d="M690.7-39.5h27c29.8,0,54,24.2,54,54v27c0,29.8-24.2,54-54,54h-27c-29.8,0-54-24.2-54-54v-27
+	C636.7-15.3,660.9-39.5,690.7-39.5z">
 <animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="35s" fill="remove" from="-30 550 750" repeatCount="indefinite" restart="always" to="330 550 750" type="rotate">
 		</animateTransform>
 </path>
-<path class="st4" d="M1945.1,270c29.8,0,54,24.2,54,54s-24.2,54-54,54h-108c-29.8,0-54-24.2-54-54s24.2-54,54-54H1945.1z">
+<path class="st10" d="M1837.1,270c29.8,0,54,24.2,54,54s-24.2,54-54,54h-108c-29.8,0-54-24.2-54-54s24.2-54,54-54H1837.1z">
 <animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="20s" fill="remove" path="M 140 390 L 180 360 L 140 390" repeatCount="indefinite" restart="always">
 		</animateMotion>
 	
 		<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="30s" fill="remove" keyTimes="0 ; 0.5 ; 1" repeatCount="indefinite" restart="always" type="rotate" values="0 140 390; -60 140 390; 0 140 390">
 		</animateTransform>
 </path>
-<circle class="st2" cx="1388.6" cy="918" r="27">
+<circle class="st11" cx="1238.3" cy="875.5" r="27">
 <animateMotion  accumulate="none" additive="replace" calcMode="paced" dur="5s" fill="remove" path="M 0 0 L 40 20 Z" repeatCount="indefinite" restart="always">
 	</animateMotion>
 </circle>
-<g>
-	<path class="st5" d="M990.5,873.7H933c-23.5,0-42.5-19-42.5-42.5v-57.5c0-23.5,19-42.5,42.5-42.5h57.5c23.5,0,42.5,19,42.5,42.5
-		v57.5C1032.9,854.7,1014,873.7,990.5,873.7z"/>
-	<rect x="914.5" y="837.1" class="st6" width="92.2" height="12.8"/>
-	<path class="st6" d="M996.3,825.1H925c-5.8,0-10.5-4.7-10.5-10.5v-46.6c0-5.8,4.7-10.5,10.5-10.5h71.3c5.8,0,10.5,4.7,10.5,10.5
-		v46.6C1006.8,820.5,1002.1,825.1,996.3,825.1z"/>
-	<path class="st5" d="M997.4,837.1h-73.5c-7.1,0-12.9-5.8-12.9-12.9v-5.1c0-7.1,5.8-12.9,12.9-12.9h73.5c7.1,0,12.9,5.8,12.9,12.9v5
-		C1010.3,831.3,1004.5,837.1,997.4,837.1z"/>
-	<rect x="923.8" y="767.4" class="st5" width="73.7" height="48"/>
-	<polygon class="st6" points="972.1,797.3 952.6,781.4 952.6,813.3 	"/>
-	<path class="st6" d="M933.7,849.9h-6.2c-5,0-9.1-4.1-9.1-9.1v-14c0-5,4.1-9.1,9.1-9.1h6.2c5,0,9.1,4.1,9.1,9.1v14
-		C942.8,845.8,938.8,849.9,933.7,849.9z"/>
-	<path class="st6" d="M963.4,849.9h-6.2c-5,0-9.1-4.1-9.1-9.1v-14c0-5,4.1-9.1,9.1-9.1h6.2c5,0,9.1,4.1,9.1,9.1v14
-		C972.5,845.8,968.4,849.9,963.4,849.9z"/>
-	<path class="st6" d="M993.1,849.9h-6.2c-5,0-9.1-4.1-9.1-9.1v-14c0-5,4.1-9.1,9.1-9.1h6.2c5,0,9.1,4.1,9.1,9.1v14
-		C1002.2,845.8,998.2,849.9,993.1,849.9z"/>
-</g>
 </svg>
