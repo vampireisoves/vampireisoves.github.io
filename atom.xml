@@ -109,9 +109,9 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="战争" scheme="http://example.com/tags/%E6%88%98%E4%BA%89/"/>
-    
     <category term="豆瓣Top250" scheme="http://example.com/tags/%E8%B1%86%E7%93%A3Top250/"/>
+    
+    <category term="战争" scheme="http://example.com/tags/%E6%88%98%E4%BA%89/"/>
     
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
@@ -267,9 +267,9 @@
     
     <category term="治愈" scheme="http://example.com/tags/%E6%B2%BB%E6%84%88/"/>
     
-    <category term="宫崎骏" scheme="http://example.com/tags/%E5%AE%AB%E5%B4%8E%E9%AA%8F/"/>
-    
     <category term="儿童" scheme="http://example.com/tags/%E5%84%BF%E7%AB%A5/"/>
+    
+    <category term="宫崎骏" scheme="http://example.com/tags/%E5%AE%AB%E5%B4%8E%E9%AA%8F/"/>
     
   </entry>
   
@@ -337,9 +337,9 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="战争" scheme="http://example.com/tags/%E6%88%98%E4%BA%89/"/>
-    
     <category term="豆瓣Top250" scheme="http://example.com/tags/%E8%B1%86%E7%93%A3Top250/"/>
+    
+    <category term="战争" scheme="http://example.com/tags/%E6%88%98%E4%BA%89/"/>
     
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
@@ -450,9 +450,9 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="战争" scheme="http://example.com/tags/%E6%88%98%E4%BA%89/"/>
-    
     <category term="豆瓣Top250" scheme="http://example.com/tags/%E8%B1%86%E7%93%A3Top250/"/>
+    
+    <category term="战争" scheme="http://example.com/tags/%E6%88%98%E4%BA%89/"/>
     
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
@@ -485,9 +485,9 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="战争" scheme="http://example.com/tags/%E6%88%98%E4%BA%89/"/>
-    
     <category term="豆瓣Top250" scheme="http://example.com/tags/%E8%B1%86%E7%93%A3Top250/"/>
+    
+    <category term="战争" scheme="http://example.com/tags/%E6%88%98%E4%BA%89/"/>
     
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
@@ -522,9 +522,9 @@
     
     <category term="豆瓣Top250" scheme="http://example.com/tags/%E8%B1%86%E7%93%A3Top250/"/>
     
-    <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
-    
     <category term="惊悚" scheme="http://example.com/tags/%E6%83%8A%E6%82%9A/"/>
+    
+    <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
     <category term="人性" scheme="http://example.com/tags/%E4%BA%BA%E6%80%A7/"/>
     
