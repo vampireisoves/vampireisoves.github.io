@@ -227,9 +227,9 @@
     
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
-    <category term="历史" scheme="http://example.com/tags/%E5%8E%86%E5%8F%B2/"/>
-    
     <category term="青春" scheme="http://example.com/tags/%E9%9D%92%E6%98%A5/"/>
+    
+    <category term="历史" scheme="http://example.com/tags/%E5%8E%86%E5%8F%B2/"/>
     
   </entry>
   
@@ -549,11 +549,11 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
-    
     <category term="科幻" scheme="http://example.com/tags/%E7%A7%91%E5%B9%BB/"/>
     
     <category term="人性" scheme="http://example.com/tags/%E4%BA%BA%E6%80%A7/"/>
+    
+    <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
   </entry>
   
