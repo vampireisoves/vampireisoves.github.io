@@ -113,11 +113,11 @@
     <category term="剧集" scheme="http://example.com/categories/%E5%89%A7%E9%9B%86/"/>
     
     
-    <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
-    
     <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
     
     <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
+    
+    <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
     <category term="奇幻" scheme="http://example.com/tags/%E5%A5%87%E5%B9%BB/"/>
     
