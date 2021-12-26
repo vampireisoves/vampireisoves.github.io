@@ -253,9 +253,9 @@
     
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
-    <category term="青春" scheme="http://example.com/tags/%E9%9D%92%E6%98%A5/"/>
-    
     <category term="历史" scheme="http://example.com/tags/%E5%8E%86%E5%8F%B2/"/>
+    
+    <category term="青春" scheme="http://example.com/tags/%E9%9D%92%E6%98%A5/"/>
     
   </entry>
   
