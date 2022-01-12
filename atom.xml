@@ -36,13 +36,13 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
-    
-    <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
-    
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
     <category term="科幻" scheme="http://example.com/tags/%E7%A7%91%E5%B9%BB/"/>
+    
+    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
+    
+    <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
     
     <category term="奇幻" scheme="http://example.com/tags/%E5%A5%87%E5%B9%BB/"/>
     
@@ -214,11 +214,11 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
+    <category term="科幻" scheme="http://example.com/tags/%E7%A7%91%E5%B9%BB/"/>
+    
     <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
     
     <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
-    
-    <category term="科幻" scheme="http://example.com/tags/%E7%A7%91%E5%B9%BB/"/>
     
     <category term="蜘蛛侠" scheme="http://example.com/tags/%E8%9C%98%E8%9B%9B%E4%BE%A0/"/>
     
@@ -454,13 +454,13 @@
     <category term="剧集" scheme="http://example.com/categories/%E5%89%A7%E9%9B%86/"/>
     
     
-    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
-    
-    <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
-    
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
     <category term="科幻" scheme="http://example.com/tags/%E7%A7%91%E5%B9%BB/"/>
+    
+    <category term="动作" scheme="http://example.com/tags/%E5%8A%A8%E4%BD%9C/"/>
+    
+    <category term="冒险" scheme="http://example.com/tags/%E5%86%92%E9%99%A9/"/>
     
     <category term="悬疑" scheme="http://example.com/tags/%E6%82%AC%E7%96%91/"/>
     
