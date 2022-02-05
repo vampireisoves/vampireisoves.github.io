@@ -224,9 +224,9 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="历史" scheme="http://example.com/tags/%E5%8E%86%E5%8F%B2/"/>
-    
     <category term="战争" scheme="http://example.com/tags/%E6%88%98%E4%BA%89/"/>
+    
+    <category term="历史" scheme="http://example.com/tags/%E5%8E%86%E5%8F%B2/"/>
     
   </entry>
   
