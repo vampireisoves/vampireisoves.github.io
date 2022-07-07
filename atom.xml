@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-23T00:56:19.984Z</updated>
+  <updated>2022-07-07T06:49:17.642Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,9 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>I ♥ Y</title>
+    <link href="http://example.com/post/63424.html"/>
+    <id>http://example.com/post/63424.html</id>
+    <published>2099-07-07T06:32:00.000Z</published>
+    <updated>2022-07-07T06:49:17.642Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="0f9e642b32c2e9e42212a9f288f3c18de7858263b87182b1a2d8a8ceca0d9fe2">c7613f3cbb3497383eacc6dc7753baf057ece9517b30a7dfddd2bdd20af07e61efa0631e65e462b13c8fff37da3fd418c795b9324003de88fbad99149c4523ce73f4da6c2b3e76c6fda6e90db2e8f7fd7a61ac988cd8d39f97a71786f80588843d2a7dc8b16f28cd02d868ec02b99a255718194633ee45ea6b65913cd927dc34932f39ecdf65646c37c2f97490a313515e8a2cdbd9543c0adbca8ab5c2e177184e53ef0c0daecbc3c584e076d39aa23bdf6f241f0abd2245467b10326066824f9fec57ec1f90c27a0e4fdc556a41ed917470819cfc50fd973ccb3bc9a026567ed454ef7de06978087131abf07b915f38be9e4a45921c2192e239d5d54cf5c1c15f03babebeeaeb3e0eadc0e507cb9385c391c5362504d49bb0de433633d67d14307834829ba716ffe34a121a53bb4f7f19c688ec64f255eb8c5beee32ce746282dcd45a680f6f1c8f1487665ff79e07941ba7c9cf50375551722c80ff637edda9a859b7c93aa044446cf4dd63a8d2b4b46bbf6e67565cb3ef6134ea651f00575983f3abfc0f3fdd5b1dc067d964cf1660e135dfe89adbba2f562688e6aa1f5ae8e2c3fd6862c075c5bec81a5b897fdb3b7192fae8401ba864daa8b33ccf7d182d0534eb5d74474db3b0305f0897668b3f7ca00dbf91b910460d4a9430245361de9bd5cfc15ee295deaf8ba1af91f8b9cf8c8cf8a93c87e6f791c30daf2a2f858c5dd36257db3a29079547caa421c6d779c3b028e681e2b8d19439d80cde00d50f5b8f1a9a8989466c0eec23580940ce8aca7b0e0a0adbc476be41581e63ddcac</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>月球陨落 Moonfall (2022)</title>
-    <link href="http://example.com/posts/d1e2331.html"/>
-    <id>http://example.com/posts/d1e2331.html</id>
+    <link href="http://example.com/post/d1e2331.html"/>
+    <id>http://example.com/post/d1e2331.html</id>
     <published>2022-04-23T00:47:00.000Z</published>
     <updated>2022-04-23T00:56:19.984Z</updated>
     
@@ -46,8 +67,8 @@
   
   <entry>
     <title>奇迹·笨小孩 (2022)</title>
-    <link href="http://example.com/posts/8f37b9a1.html"/>
-    <id>http://example.com/posts/8f37b9a1.html</id>
+    <link href="http://example.com/post/8f37b9a1.html"/>
+    <id>http://example.com/post/8f37b9a1.html</id>
     <published>2022-04-23T00:42:00.000Z</published>
     <updated>2022-04-23T00:45:24.027Z</updated>
     
@@ -72,8 +93,8 @@
   
   <entry>
     <title>蜀山传：万剑归宗 (2022)</title>
-    <link href="http://example.com/posts/e9f80fe.html"/>
-    <id>http://example.com/posts/e9f80fe.html</id>
+    <link href="http://example.com/post/e9f80fe.html"/>
+    <id>http://example.com/post/e9f80fe.html</id>
     <published>2022-04-22T11:00:00.000Z</published>
     <updated>2022-04-23T01:10:14.801Z</updated>
     
@@ -100,8 +121,8 @@
   
   <entry>
     <title>亚当计划 The Adam Project (2022)</title>
-    <link href="http://example.com/posts/8466693d.html"/>
-    <id>http://example.com/posts/8466693d.html</id>
+    <link href="http://example.com/post/8466693d.html"/>
+    <id>http://example.com/post/8466693d.html</id>
     <published>2022-03-24T06:09:00.000Z</published>
     <updated>2022-04-22T14:25:29.114Z</updated>
     
@@ -130,8 +151,8 @@
   
   <entry>
     <title>青春变形记 Turning Red</title>
-    <link href="http://example.com/posts/8ba3cd4e.html"/>
-    <id>http://example.com/posts/8ba3cd4e.html</id>
+    <link href="http://example.com/post/8ba3cd4e.html"/>
+    <id>http://example.com/post/8ba3cd4e.html</id>
     <published>2022-03-24T06:06:00.000Z</published>
     <updated>2022-04-22T14:28:53.005Z</updated>
     
@@ -160,8 +181,8 @@
   
   <entry>
     <title>西区故事 West Side Story</title>
-    <link href="http://example.com/posts/4b02988c.html"/>
-    <id>http://example.com/posts/4b02988c.html</id>
+    <link href="http://example.com/post/4b02988c.html"/>
+    <id>http://example.com/post/4b02988c.html</id>
     <published>2022-03-07T06:35:00.000Z</published>
     <updated>2022-04-22T14:31:24.051Z</updated>
     
@@ -190,8 +211,8 @@
   
   <entry>
     <title>宙斯之子：赫拉克勒斯 Hercules</title>
-    <link href="http://example.com/posts/bbf38e6e.html"/>
-    <id>http://example.com/posts/bbf38e6e.html</id>
+    <link href="http://example.com/post/bbf38e6e.html"/>
+    <id>http://example.com/post/bbf38e6e.html</id>
     <published>2022-03-07T06:29:00.000Z</published>
     <updated>2022-04-22T14:32:33.049Z</updated>
     
@@ -216,8 +237,8 @@
   
   <entry>
     <title>雄狮少年</title>
-    <link href="http://example.com/posts/f933892b.html"/>
-    <id>http://example.com/posts/f933892b.html</id>
+    <link href="http://example.com/post/f933892b.html"/>
+    <id>http://example.com/post/f933892b.html</id>
     <published>2022-02-17T07:05:00.000Z</published>
     <updated>2022-02-17T07:08:03.575Z</updated>
     
@@ -246,8 +267,8 @@
   
   <entry>
     <title>解禁男女 모럴 센스</title>
-    <link href="http://example.com/posts/7e6d291.html"/>
-    <id>http://example.com/posts/7e6d291.html</id>
+    <link href="http://example.com/post/7e6d291.html"/>
+    <id>http://example.com/post/7e6d291.html</id>
     <published>2022-02-17T06:53:00.000Z</published>
     <updated>2022-04-22T14:36:49.045Z</updated>
     
@@ -272,8 +293,8 @@
   
   <entry>
     <title>蜘蛛侠:英雄无归 Spider-Man: No Way Home</title>
-    <link href="http://example.com/posts/9581a086.html"/>
-    <id>http://example.com/posts/9581a086.html</id>
+    <link href="http://example.com/post/9581a086.html"/>
+    <id>http://example.com/post/9581a086.html</id>
     <published>2022-02-11T04:00:00.000Z</published>
     <updated>2022-04-22T14:39:26.089Z</updated>
     
@@ -302,8 +323,8 @@
   
   <entry>
     <title>隔窗恋爱 A través de mi ventana</title>
-    <link href="http://example.com/posts/7141520d.html"/>
-    <id>http://example.com/posts/7141520d.html</id>
+    <link href="http://example.com/post/7141520d.html"/>
+    <id>http://example.com/post/7141520d.html</id>
     <published>2022-02-11T03:59:00.000Z</published>
     <updated>2022-04-23T00:33:10.864Z</updated>
     
@@ -328,8 +349,8 @@
   
   <entry>
     <title>爱情神话</title>
-    <link href="http://example.com/posts/4bb1c454.html"/>
-    <id>http://example.com/posts/4bb1c454.html</id>
+    <link href="http://example.com/post/4bb1c454.html"/>
+    <id>http://example.com/post/4bb1c454.html</id>
     <published>2022-02-05T14:00:00.000Z</published>
     <updated>2022-02-05T14:02:24.000Z</updated>
     
@@ -356,8 +377,8 @@
   
   <entry>
     <title>我和我的父辈</title>
-    <link href="http://example.com/posts/3d1fc864.html"/>
-    <id>http://example.com/posts/3d1fc864.html</id>
+    <link href="http://example.com/post/3d1fc864.html"/>
+    <id>http://example.com/post/3d1fc864.html</id>
     <published>2022-02-05T13:59:00.000Z</published>
     <updated>2022-02-05T14:00:26.000Z</updated>
     
@@ -380,8 +401,8 @@
   
   <entry>
     <title>阿丽塔：战斗天使 Alita: Battle Angel</title>
-    <link href="http://example.com/posts/f66f9a06.html"/>
-    <id>http://example.com/posts/f66f9a06.html</id>
+    <link href="http://example.com/post/f66f9a06.html"/>
+    <id>http://example.com/post/f66f9a06.html</id>
     <published>2022-02-05T13:40:00.000Z</published>
     <updated>2022-02-05T13:43:37.000Z</updated>
     
@@ -408,8 +429,8 @@
   
   <entry>
     <title>法比安 Fabian oder Der Gang vor die Hunde (2021)</title>
-    <link href="http://example.com/posts/93b7bc14.html"/>
-    <id>http://example.com/posts/93b7bc14.html</id>
+    <link href="http://example.com/post/93b7bc14.html"/>
+    <id>http://example.com/post/93b7bc14.html</id>
     <published>2022-02-05T13:29:40.000Z</published>
     <updated>2022-02-05T13:32:09.000Z</updated>
     
@@ -430,8 +451,8 @@
   
   <entry>
     <title>神秘魔法部 Secret Magic Control Agency</title>
-    <link href="http://example.com/posts/442d6052.html"/>
-    <id>http://example.com/posts/442d6052.html</id>
+    <link href="http://example.com/post/442d6052.html"/>
+    <id>http://example.com/post/442d6052.html</id>
     <published>2022-01-19T02:54:00.000Z</published>
     <updated>2022-01-19T03:00:41.000Z</updated>
     
@@ -458,8 +479,8 @@
   
   <entry>
     <title>精灵旅社4：变身大冒险 Hotel Transylvania 4: Transformania</title>
-    <link href="http://example.com/posts/6d638424.html"/>
-    <id>http://example.com/posts/6d638424.html</id>
+    <link href="http://example.com/post/6d638424.html"/>
+    <id>http://example.com/post/6d638424.html</id>
     <published>2022-01-19T02:49:00.000Z</published>
     <updated>2022-01-19T02:52:09.000Z</updated>
     
@@ -488,8 +509,8 @@
   
   <entry>
     <title>奥斯维辛报告 Správa</title>
-    <link href="http://example.com/posts/650865e0.html"/>
-    <id>http://example.com/posts/650865e0.html</id>
+    <link href="http://example.com/post/650865e0.html"/>
+    <id>http://example.com/post/650865e0.html</id>
     <published>2022-01-18T09:21:46.000Z</published>
     <updated>2022-01-18T09:23:57.000Z</updated>
     
@@ -506,16 +527,16 @@
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="战争" scheme="http://example.com/tags/%E6%88%98%E4%BA%89/"/>
-    
     <category term="历史" scheme="http://example.com/tags/%E5%8E%86%E5%8F%B2/"/>
+    
+    <category term="战争" scheme="http://example.com/tags/%E6%88%98%E4%BA%89/"/>
     
   </entry>
   
   <entry>
     <title>世界上最糟糕的人 Verdens verste menneske</title>
-    <link href="http://example.com/posts/3159ac92.html"/>
-    <id>http://example.com/posts/3159ac92.html</id>
+    <link href="http://example.com/post/3159ac92.html"/>
+    <id>http://example.com/post/3159ac92.html</id>
     <published>2022-01-17T08:13:17.000Z</published>
     <updated>2022-01-17T08:24:41.000Z</updated>
     
@@ -535,32 +556,6 @@
     <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
     <category term="喜剧" scheme="http://example.com/tags/%E5%96%9C%E5%89%A7/"/>
-    
-    <category term="爱情" scheme="http://example.com/tags/%E7%88%B1%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>偶然与想象 偶然と想像</title>
-    <link href="http://example.com/posts/77f4ad11.html"/>
-    <id>http://example.com/posts/77f4ad11.html</id>
-    <published>2022-01-14T08:06:08.000Z</published>
-    <updated>2022-01-14T08:07:27.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="电影简介"><a href="#电影简介" class="headerlink" title="电影简介"></a>电影简介</h2><blockquote><p>影片由三个短片构成——《魔法(比魔法更不真切)》《开着的门》《再来一次》。女性角色的多重性和镜像性是滨口之前的作品中的主题,在他的新作《偶然与想象》中也是如此。</p></blockquote><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg5.mtime.cn%2Fmg%2F2021%2F03%2F05%2F210638.17396020.jpg&refer=http%3A%2F%2Fimg5.mtime.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644739606&t=00ba95ee3d238761ac0a54edcc4bd955" style="zoom: 150%;" /><span id="more"></span><blockquote><p>前作《欢乐时光》和《夜以继日》,从字面上看,颇有小说的味道,而《偶然与想象》则可以说是一部短篇小说集。叙事节奏 更强化了这一印象:三集,每集围绕一个女性角色展开,又分为三幕。三个短片讲述了一个意想不到的三角恋、一场未遂的诱惑和一个因误会而相遇的故事。尽管零散,但仍保持了有机的叙事流程,甚至还强调了这一点。虽然大部分的动作都发生在一个空间里,而且只有两个演员参与,这部电影却不让人觉得像一出室内剧。这不仅仅是由于对话的缘故,还在于其复杂的时空概念,最后一集几乎变成了科幻片。我们所见证的时刻都与感人的普遍命运相连,以选择、遗憾、欺骗和巧合为标志,它们是影片真正的主角。</p></blockquote><h2 id="电影信息"><a href="#电影信息" class="headerlink" title="电影信息"></a>电影信息</h2><p>导演: 滨口龙介<br>编剧: 滨口龙介<br>主演: 古川琴音 &#x2F; 涩川清彦 &#x2F; 占部房子 &#x2F; 中岛步 &#x2F; 玄理 &#x2F; 森郁月 &#x2F; 甲斐翔真 &#x2F; 河井青叶<br>类型: 剧情 &#x2F; 爱情<br>制片国家&#x2F;地区: 日本<br>语言: 日语<br>上映日期: 2021-03-04(柏林电影节) &#x2F; 2021-12-17(日本)<br>片长: 121分钟<br>又名: 偶然与想象之轮(港) &#x2F; 命运与幻想之轮 &#x2F; Wheel of Fortune and Fantasy</p><h2 id="在线观看"><a href="#在线观看" class="headerlink" title="在线观看"></a>在线观看</h2><hr><iframe src="https://vampireisoves.github.io/m3uplayer/#https://ltzy.hnmj.vip/cache/1641653945694.m3u8" scrolling="no" width=100% height="360px" border="0" frameborder="no" framespacing="0" allowfullscreen="true" controls="controls"></iframe><blockquote><p>如果无法观看请使用备用资源↓↓↓。</p></blockquote><hr><h2 id="备用资源"><a href="#备用资源" class="headerlink" title="备用资源"></a>备用资源</h2><p><del><a href="https://">资源1</a></del></p><hr><h2 id="提示"><a href="#提示" class="headerlink" title="提示"></a>提示</h2><blockquote><p>&lt;如果资源失效请<a href="maniacravings@petalmail.com">邮件反馈</a>&gt;</p></blockquote><hr><h2 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h2><blockquote><p>&lt;本站所有资源均收集自互联网,没有提供影片资源存储,也未参与录制、上传。任何版权问题请联系原资源发布商,如有其他问题请<a href="maniacravings@petalmail.com">邮件</a>告知.&gt;</p></blockquote>]]></content>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;电影简介&quot;&gt;&lt;a href=&quot;#电影简介&quot; class=&quot;headerlink&quot; title=&quot;电影简介&quot;&gt;&lt;/a&gt;电影简介&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;影片由三个短片构成——《魔法(比魔法更不真切)》《开着的门》《再来一次》。女性角色的多重性和镜像性是滨口之前的作品中的主题,在他的新作《偶然与想象》中也是如此。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;img src=&quot;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg5.mtime.cn%2Fmg%2F2021%2F03%2F05%2F210638.17396020.jpg&amp;refer=http%3A%2F%2Fimg5.mtime.cn&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=jpeg?sec=1644739606&amp;t=00ba95ee3d238761ac0a54edcc4bd955&quot; style=&quot;zoom: 150%;&quot; /&gt;</summary>
-    
-    
-    
-    <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
-    
-    
-    <category term="剧情" scheme="http://example.com/tags/%E5%89%A7%E6%83%85/"/>
     
     <category term="爱情" scheme="http://example.com/tags/%E7%88%B1%E6%83%85/"/>
     
